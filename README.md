@@ -1,13 +1,13 @@
-# About Me
 
-🌟 Welcome to Prateek's Portfolio 🌟
-About Me
+# 🌟 Welcome to Prateek's Portfolio 🌟
+
+# About Me
 Hi there! I'm Prateek, a 🐍 Python enthusiast with a passion for all things 💻 digital marketing. When I'm not busy searching the internet for solutions (Google is my best friend 🤓), you can find me diving into the world of 🧠 data science and 🤖 machine learning on Simplilearn. I've also dabbled in a bit of 🐧 Linux and know my way around 🕵️‍♂️ SEO and 🎨 Canva.
 
-My Interests
+# My Interests
 In my spare time, I love learning about 📚 history, 🌌 astronomy, 🔬 physics, and 🙏 spirituality (especially Krishna 🙏).
 
-My Repositories 🗃
+# My Repositories 🗃
 Here are a few of my notable repositories that showcase my skills and interests:
 
 The Dungeon Delver's Odyssey 🗡️: Brave the dangers of the underground world in this exciting text-based adventure game.
