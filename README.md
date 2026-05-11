@@ -153,18 +153,6 @@ The pattern I keep coming back to:
 
 ---
 
-## Earlier Work
-
-Before the current AI/Web3 direction, I built Python tools and learning projects:
-
-[FileFetcher](https://github.com/Pratiikpy/FileFetcher) /
-[News Article Search Tool](https://github.com/Pratiikpy/News-article-search-tool) /
-[Python Text Game](https://github.com/Pratiikpy/Python-text-game) /
-[Data Science Cheatsheet](https://github.com/Pratiikpy/Data-science-cheatsheet) /
-[Notion Web3](https://github.com/Pratiikpy/Notion-Web3)
-
----
-
 <p align="center">
   <i>Currently building where AI work becomes verifiable.</i>
 </p>
