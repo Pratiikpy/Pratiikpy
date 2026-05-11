@@ -1,18 +1,155 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,45:0f766e,100:16a34a&text=Prateek%20Kumar&fontColor=fafaf7&fontSize=54&fontAlignY=42&desc=verifiable%20AI%20-%20privacy%20-%20on-chain%20proofs&descAlignY=62&descSize=17" alt="Prateek Kumar" />
+</p>
 
-# 🌟 Welcome to Prateek's Portfolio 🌟
+<p align="center">
+  <a href="https://github.com/Pratiikpy">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=16A34A&center=true&vCenter=true&width=720&lines=I+build+products+where+the+proof+is+part+of+the+interface.;AI+agents+should+not+only+act.+They+should+leave+receipts.;Private+work.+Public+proof.+No+vibes." alt="Typing line" />
+  </a>
+</p>
 
-# About Me
-Hi there! I'm Prateek, a 🐍 Python enthusiast with a passion for all things 💻 digital marketing. When I'm not busy searching the internet for solutions (Google is my best friend 🤓), you can find me diving into the world of 🧠 data science and 🤖 machine learning on Simplilearn. I've also dabbled in a bit of 🐧 Linux and know my way around 🕵️‍♂️ SEO and 🎨 Canva.
+<br />
 
-# My Interests
-In my spare time, I love learning about 📚 history, 🌌 astronomy, 🔬 physics, and 🙏 spirituality (especially Krishna 🙏).
+<div align="center">
 
-# My Repositories 🗃
-Here are a few of my notable repositories that showcase my skills and interests:
+`AI agents` / `Web3 infra` / `privacy` / `receipts` / `CLI tools` / `product experiments`
 
-1. The Dungeon Delver's Odyssey 🗡️: Brave the dangers of the underground world in this exciting text-based adventure game.
-2. FileFetcher 📥: A simple yet powerful GUI application for downloading files from the internet, built using PyQt5.
-3. Info Hunter 🕵️‍♀️: A tool that helps users find and organize information from multiple sources on a specific topic.
-4. Data Science Cheatsheet 🧑‍💼: A collection of resources and examples for exploring, analyzing, and manipulating data using Python.
-# Let's Connect 🤝
-You can find me tweeting about my latest findings at @prateekhh or shoot me an email at apkadost888@gmail.com. I hope you enjoy exploring my repositories! Don't hesitate to reach out if you have any questions or want to collaborate.
+</div>
+
+---
+
+## Now
+
+I am building **[Ivaronix](https://github.com/Pratiikpy/ivaronix)**.
+
+> Private AI workrooms for sensitive documents, code, and agent actions.  
+> Every important action leaves a verifiable receipt.
+
+Ivaronix is my current main project: a Studio + CLI system for private AI work, skill-based workflows, agent passports, burn mode, 0G integration, and proof pages.
+
+The short version:
+
+```text
+Chat gives answers.
+Ivaronix gives receipts.
+```
+
+---
+
+## Taste
+
+I like building things that feel like infrastructure, but read like products.
+
+The pattern I keep coming back to:
+
+| Idea | What it means |
+|---|---|
+| Receipts over vibes | If an AI or payment system did something important, it should leave proof. |
+| Privacy without theater | Private data should stay private, not become a marketing claim. |
+| Tools with taste | CLI and UI should feel deliberate, not stitched together. |
+| Small surface, deep system | The first screen should be simple; the system underneath can be serious. |
+| Ship, then sharpen | Build the working thing, then make it clear, useful, and hard to misunderstand. |
+
+---
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Pratiikpy/ivaronix">Ivaronix</a></h3>
+      <p>Verifiable AI workroom for private documents, code, skills, receipts, and 0G-native proof.</p>
+      <p><code>TypeScript</code> <code>0G</code> <code>AI Agents</code> <code>CLI</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Pratiikpy/Settle">Settle</a></h3>
+      <p>Receipt layer for the AI-payment era. Hash commitments, verifiable payment records, Solana proof flow.</p>
+      <p><code>TypeScript</code> <code>Solana</code> <code>BLAKE3</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Pratiikpy/pod">POD</a></h3>
+      <p>Crypto ETF-flow signal dashboard and Telegram bot built around institutional market data.</p>
+      <p><code>TypeScript</code> <code>Dashboard</code> <code>Telegram Bot</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Pratiikpy/PrivateSplit">PrivateSplit</a></h3>
+      <p>Privacy-first expense splitting experiment on Aleo.</p>
+      <p><code>TypeScript</code> <code>Aleo</code> <code>Privacy</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Pratiikpy/agentswarm-arena">AgentSwarm Arena</a></h3>
+      <p>AI agents competing inside a simulated Solana economy.</p>
+      <p><code>TypeScript</code> <code>Agents</code> <code>Solana</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Pratiikpy/anoma-vp-toolkit">Anoma VP Toolkit</a></h3>
+      <p>CLI toolkit for generating, compiling, and testing Anoma validity predicates.</p>
+      <p><code>Rust</code> <code>CLI</code> <code>Anoma</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,node,python,rust,solidity,tailwind,vercel,git,github" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/0G-111827?style=flat-square&labelColor=16a34a&color=111827" alt="0G" />
+  <img src="https://img.shields.io/badge/Solana-111827?style=flat-square&labelColor=14f195&color=111827" alt="Solana" />
+  <img src="https://img.shields.io/badge/Aleo-111827?style=flat-square&labelColor=7c3aed&color=111827" alt="Aleo" />
+  <img src="https://img.shields.io/badge/EVM-111827?style=flat-square&labelColor=0f766e&color=111827" alt="EVM" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&labelColor=fafaf7&color=111827" alt="AI agents" />
+</p>
+
+---
+
+## Build Log
+
+```text
+2026 - Ivaronix: verifiable AI workrooms on 0G
+2026 - Settle: receipt layer for AI-age payments on Solana
+2026 - POD: crypto ETF-flow dashboard + Telegram bot
+2026 - Privacy experiments on Aleo
+2026 - Solana agent systems and autonomous builders
+2025 - Anoma, Irys, Injective, and Web3 app experiments
+2023 - Python utilities, data science notes, search tools
+```
+
+---
+
+## GitHub Pulse
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pratiikpy&show_icons=true&theme=transparent&hide_border=true&title_color=16a34a&icon_color=16a34a&text_color=9ca3af" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiikpy&layout=compact&theme=transparent&hide_border=true&title_color=16a34a&text_color=9ca3af" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiikpy&theme=github-compact&hide_border=true&bg_color=00000000&color=16a34a&line=16a34a&point=fafaf7&area=true" alt="Activity graph" />
+</p>
+
+---
+
+## Earlier Work
+
+Before the current AI/Web3 direction, I built Python tools and learning projects:
+
+[FileFetcher](https://github.com/Pratiikpy/FileFetcher) /
+[News Article Search Tool](https://github.com/Pratiikpy/News-article-search-tool) /
+[Python Text Game](https://github.com/Pratiikpy/Python-text-game) /
+[Data Science Cheatsheet](https://github.com/Pratiikpy/Data-science-cheatsheet) /
+[Notion Web3](https://github.com/Pratiikpy/Notion-Web3)
+
+---
+
+<p align="center">
+  <i>Currently building where AI work becomes verifiable.</i>
+</p>
