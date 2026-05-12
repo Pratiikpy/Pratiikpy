@@ -1,20 +1,29 @@
+<h1 align="center">Prateek Tripathi</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,38:312e81,72:0f766e,100:fafaf7&text=Prateek%20Tripathi&fontColor=fafaf7&fontSize=54&fontAlignY=42&desc=verifiable%20AI%20-%20privacy%20-%20on-chain%20proofs&descAlignY=62&descSize=17" alt="Prateek Tripathi" />
+  <b>Private AI work. Public proof. No vibes.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pratiikpy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=16A34A&center=true&vCenter=true&width=720&lines=I+build+products+where+the+proof+is+part+of+the+interface.;AI+agents+should+not+only+act.+They+should+leave+receipts.;Private+work.+Public+proof.+No+vibes." alt="Typing line" />
-  </a>
+  <code>AI agents</code>
+  <code>Web3 infra</code>
+  <code>privacy</code>
+  <code>receipts</code>
+  <code>CLI tools</code>
+  <code>product experiments</code>
 </p>
 
-<br />
+```text
++ proof layer ------------------------------------------------+
+| building     Ivaronix                                      |
+| direction    verifiable AI workrooms                        |
+| principle    sensitive work stays private                   |
+| output       important actions leave receipts               |
+| stack        TypeScript / 0G / Solana / Aleo / agents        |
++------------------------------------------------------------+
+```
 
-<div align="center">
-
-`AI agents` / `Web3 infra` / `privacy` / `receipts` / `CLI tools` / `product experiments`
-
-</div>
+> I build products where the proof is part of the interface.
 
 ---
 
