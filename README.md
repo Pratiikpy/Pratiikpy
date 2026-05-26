@@ -1,65 +1,50 @@
 <h1 align="center">Prateek Tripathi</h1>
 
 <p align="center">
-  <b>Private AI work. Public proof. No vibes.</b>
+  <b>Founder building privacy infrastructure for real on-chain payments.</b>
 </p>
 
 <p align="center">
-  <code>AI agents</code>
-  <code>Web3 infra</code>
-  <code>privacy</code>
-  <code>receipts</code>
-  <code>CLI tools</code>
-  <code>product experiments</code>
+  <a href="https://www.myblank.app">Blank</a> ·
+  <a href="https://app.myblank.app">Live app</a> ·
+  <a href="https://docs.myblank.app">Whitepaper</a> ·
+  <a href="https://www.myblank.app/proof-deck">Proof deck</a> ·
+  <a href="https://x.com/use_blank">X</a>
+</p>
+
+<p align="center">
+  <code>Fhenix CoFHE</code>
+  <code>Ethereum</code>
+  <code>FHE</code>
+  <code>payments</code>
+  <code>Solidity</code>
+  <code>TypeScript</code>
 </p>
 
 ```text
-+ proof layer ------------------------------------------------+
-| building     Ivaronix                                      |
-| direction    verifiable AI workrooms                        |
-| principle    sensitive work stays private                   |
-| output       important actions leave receipts               |
-| stack        TypeScript / 0G / Solana / Aleo / agents        |
++ blank -----------------------------------------------------+
+| product      private amounts for public Ethereum payments  |
+| model        public sender, public receiver, encrypted sum  |
+| chain        Base Sepolia + Ethereum Sepolia testnets       |
+| stack        Fhenix CoFHE / Solidity / React / ERC-4337     |
+| status       live public testnet                            |
 +------------------------------------------------------------+
 ```
 
-> I build products where the proof is part of the interface.
+I am building **[Blank](https://github.com/Pratiikpy/Blank)**: confidential payment infrastructure for public blockchains.
+
+Blank is not a mixer and does not hide who paid whom. It keeps public settlement useful while encrypting the commercial detail that should not be public forever: the amount.
 
 ---
 
-## Now
+## Current Focus
 
-I am building **[Ivaronix](https://github.com/Pratiikpy/ivaronix)** and **[Blank](https://github.com/Pratiikpy/Blank)**.
-
-> Private AI workrooms for sensitive documents, code, and agent actions.  
-> Every important action leaves a verifiable receipt.
-
-Ivaronix is my current main project: a Studio + CLI system for private AI work, skill-based workflows, agent passports, burn mode, 0G integration, and proof pages.
-
-Blank is also active: a product experiment I am shaping alongside Ivaronix.
-
-The short version:
-
-```text
-Chat gives answers.
-Ivaronix gives receipts.
-```
-
----
-
-## Taste
-
-I like building things that feel like infrastructure, but read like products.
-
-The pattern I keep coming back to:
-
-| Idea | What it means |
-|---|---|
-| Receipts over vibes | If an AI or payment system did something important, it should leave proof. |
-| Privacy without theater | Private data should stay private, not become a marketing claim. |
-| Tools with taste | CLI and UI should feel deliberate, not stitched together. |
-| Small surface, deep system | The first screen should be simple; the system underneath can be serious. |
-| Ship, then sharpen | Build the working thing, then make it clear, useful, and hard to misunderstand. |
+| Area | What I am building |
+| --- | --- |
+| Private payments | Encrypted sends, requests, invoices, gifts, claim links, storefront, crowdfund, escrow, swap, bridge, and offramp flows |
+| Privacy architecture | Client-side encryption, CoFHE verification, ciphertext state, permit-based decryption, and on-chain FHE compute |
+| Product proof | Real testnet transactions, public proof deck, status page, release notes, and launch-readiness docs |
+| User experience | Payment flows that feel normal while the sensitive number stays encrypted |
 
 ---
 
@@ -68,100 +53,57 @@ The pattern I keep coming back to:
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/Pratiikpy/ivaronix">Ivaronix</a></h3>
-      <p>Verifiable AI workroom for private documents, code, skills, receipts, and 0G-native proof.</p>
-      <p><code>TypeScript</code> <code>0G</code> <code>AI Agents</code> <code>CLI</code></p>
-    </td>
-    <td width="50%">
       <h3><a href="https://github.com/Pratiikpy/Blank">Blank</a></h3>
-      <p>Active product experiment being developed alongside Ivaronix.</p>
-      <p><code>TypeScript</code> <code>Product</code> <code>Experiment</code></p>
+      <p>Private amounts for public Ethereum payments on Fhenix CoFHE. Live on public testnet with product, docs, pitch deck, proof deck, and status page.</p>
+      <p><code>Fhenix</code> <code>CoFHE</code> <code>Solidity</code> <code>React</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/Pratiikpy/Settle">Settle</a></h3>
-      <p>Receipt layer for the AI-payment era. Hash commitments, verifiable payment records, Solana proof flow.</p>
+      <p>Receipt layer for the AI-payment era. Hash commitments, verifiable payment records, and Solana proof flow.</p>
       <p><code>TypeScript</code> <code>Solana</code> <code>BLAKE3</code></p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Pratiikpy/pod">POD</a></h3>
-      <p>Crypto ETF-flow signal dashboard and Telegram bot built around institutional market data.</p>
-      <p><code>TypeScript</code> <code>Dashboard</code> <code>Telegram Bot</code></p>
-    </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Pratiikpy/ivaronix">Ivaronix</a></h3>
+      <p>Verifiable AI workroom for private documents, code, skills, receipts, and proof pages.</p>
+      <p><code>TypeScript</code> <code>AI Agents</code> <code>CLI</code></p>
+    </td>
     <td width="50%">
       <h3><a href="https://github.com/Pratiikpy/PrivateSplit">PrivateSplit</a></h3>
-      <p>Privacy-first expense splitting experiment on Aleo.</p>
+      <p>Privacy-first expense splitting system on Aleo.</p>
       <p><code>TypeScript</code> <code>Aleo</code> <code>Privacy</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Pratiikpy/agentswarm-arena">AgentSwarm Arena</a></h3>
-      <p>AI agents competing inside a simulated Solana economy.</p>
-      <p><code>TypeScript</code> <code>Agents</code> <code>Solana</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Pratiikpy/anoma-vp-toolkit">Anoma VP Toolkit</a></h3>
-      <p>CLI toolkit for generating, compiling, and testing Anoma validity predicates.</p>
-      <p><code>Rust</code> <code>CLI</code> <code>Anoma</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Pratiikpy/VeilSub">VeilSub</a></h3>
-      <p>Privacy-first creator subscription platform on Aleo.</p>
-      <p><code>TypeScript</code> <code>Aleo</code> <code>Subscriptions</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Stack
+## Background
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,node,python,rust,solidity,tailwind,vercel,git,github" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/0G-020617?style=flat-square&labelColor=0f766e&color=020617" alt="0G" />
-  <img src="https://img.shields.io/badge/Solana-111827?style=flat-square&labelColor=14f195&color=111827" alt="Solana" />
-  <img src="https://img.shields.io/badge/Aleo-020617?style=flat-square&labelColor=312e81&color=020617" alt="Aleo" />
-  <img src="https://img.shields.io/badge/EVM-020617?style=flat-square&labelColor=334155&color=020617" alt="EVM" />
-  <img src="https://img.shields.io/badge/AI%20Agents-020617?style=flat-square&labelColor=fafaf7&color=020617" alt="AI agents" />
-</p>
+- Master's in blockchain.
+- Author of *The Blockchain Path*.
+- Hosted offline Web3 events at two universities in India.
+- Built across privacy, payments, AI agents, Solana, Aleo, EVM, and product tooling.
+- Experience across product, marketing, community, and developer-facing systems.
 
 ---
 
-## Build Log
+## Product Standard
 
-```text
-2026 - Ivaronix: verifiable AI workrooms on 0G
-2026 - Blank: active product experiment
-2026 - Settle: receipt layer for AI-age payments on Solana
-2026 - POD: crypto ETF-flow dashboard + Telegram bot
-2026 - Privacy experiments on Aleo
-2026 - Solana agent systems and autonomous builders
-2025 - Anoma, Irys, Injective, and Web3 app experiments
-2023 - Python utilities, data science notes, search tools
-```
+The pattern I care about:
 
----
-
-## GitHub Pulse
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pratiikpy&show_icons=true&theme=transparent&hide_border=true&title_color=16a34a&icon_color=16a34a&text_color=9ca3af" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiikpy&layout=compact&theme=transparent&hide_border=true&title_color=16a34a&text_color=9ca3af" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiikpy&theme=github-compact&hide_border=true&bg_color=00000000&color=16a34a&line=16a34a&point=fafaf7&area=true" alt="Activity graph" />
-</p>
+| Principle | Meaning |
+| --- | --- |
+| Proof over noise | Important claims should have links, screenshots, tx hashes, or tests behind them. |
+| Privacy without theater | Say exactly what is hidden and exactly what remains public. |
+| Serious defaults | Clear docs, release notes, security boundaries, and honest scope. |
+| Product before protocol | Users should not need to understand FHE to make a private payment. |
 
 ---
 
 <p align="center">
-  <i>Currently building where AI work becomes verifiable.</i>
+  <a href="https://www.myblank.app">myblank.app</a> ·
+  <a href="https://github.com/Pratiikpy/Blank/releases/tag/testnet-2026-05-26">testnet release</a> ·
+  <a href="https://www.myblank.app/status">status</a>
 </p>
